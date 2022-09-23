@@ -1,0 +1,16 @@
+h1 {
+  color: aliceblue;
+}
+.operacion {
+margin: 2rem 1rem;
+}
+.result {
+  font-size: 2rem;
+}
+.igual {
+  display: inline-block;
+  width: 200px;
+  border: 2px solid black;
+  border-radius: 15px;
+  background-color: aquamarine;
+}
